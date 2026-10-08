@@ -44,3 +44,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mukulsingh012&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulsingh012&theme=dark" alt="GitHub Streak" />
 </p>
+
+
+---
+
+### 🧩 Coding Practice
+
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/Mukul_01" alt="LeetCode Stats" />
+</p>
